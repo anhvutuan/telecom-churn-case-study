@@ -24,3 +24,6 @@ This project is based on the Indian and Southeast Asian market.
 - Telecom+Churn+-+Group+Case+Study+-+Aayushi_Meenu.ipynb : The python file showing coding and data analysis
 - Data+Dictionary-+Telecom+Churn+Case+Study.xlsx : Data Dictionary
 
+##
+https://jovian.com/sriram-ganesh/telecom-churn-case-study-1
+https://jovian.com/sriram-ganesh/telecom-churn-case-study
